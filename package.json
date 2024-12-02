@@ -1,0 +1,32 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.12",
+    "axios": "^1.7.8",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "html-pdf": "^3.0.1",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mkdirp": "^3.0.1",
+    "mysql2": "^3.11.5",
+    "nodemailer": "^6.9.16",
+    "path": "^0.12.7",
+    "puppeteer": "^23.9.0",
+    "qs": "^6.13.1",
+    "tough-cookie": "^5.0.0",
+    "uuid": "^11.0.3"
+  }
+}
